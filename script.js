@@ -1,4 +1,3 @@
-/* Get all elements with class="dc-close" */
 var closebtns = document.getElementsByClassName("dc-close");
 var i;
 
